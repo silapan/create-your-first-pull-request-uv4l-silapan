@@ -2,3 +2,5 @@ CMSC 100 Expectations
 
 
 As CMSC 100 is Web Programming, I expect to learn concepts that will help me create functional as well visually pleasing website. I also expect to learn more about git and GitHub as it seems that it will always be used. Overall, I expect to learn new topics and concepts under the field of Computer Science which will help me improve as a Computer Science student.
+
+- Right! Learning web development is a really fulfilling endeavor. Once you learn more about the structure and inner workings of a website, you begin to look at websites differently! That's the magic of Computer Science xD. I have high hopes that we will have a fun and wholesome learning experience in CMSC 100. ^__^
